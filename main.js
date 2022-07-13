@@ -34,3 +34,8 @@ function operate(operator, num1, num2) {
         break;
   }
 }
+
+function switchColor(){
+  let element = document.body;
+  element.classList.toggle("dark");
+}
