@@ -39,3 +39,5 @@ function switchColor(){
   let element = document.body;
   element.classList.toggle("dark");
 }
+
+// ways to track user data 
